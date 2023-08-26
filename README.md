@@ -1,6 +1,8 @@
 # Project_Calculator
-This is a simple calculator implemented by Arduino UNO, LCD screen and keypad.
+This is a simple calculator implemented by Arduino UNO, LCD screen and keypad.<\br>
+
 Requirements
+
 •Arduino Uno: Arduino is an open-source development platform that allows us to program it
 using the Arduino IDE. It contains the Microcontroller ATmega328P. The microcontroller acts
 as the Central Processing Unit for the calculator in this project.
